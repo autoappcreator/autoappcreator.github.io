@@ -7,6 +7,7 @@ Next you can update your site name, avatar and other options using the _config.y
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
+```
 10 秒 Markdown
 Markdown 语法里面，先用最基础的这几个就能流畅的写作了：
 
@@ -21,3 +22,4 @@ Markdown 语法里面，先用最基础的这几个就能流畅的写作了：
 *斜体*
 
 **粗体**
+```
