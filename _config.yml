@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: can automatically app be created ?
+name: Auto APP Creator Blog
 
 # Short bio or description (displayed in the header)
-description: auto app creator
+description: Can apps be created automatically? Without any coding on ORM, MVC, just a direct mapping and operating to data in database?
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
